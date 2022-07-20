@@ -31,22 +31,22 @@ front-end разработчик
 
 Стек технологий:
 
-Языки: Javascript, Typescript, CSS, HTML;
-Фреймворки: React, ReactNative, Vue;
-Библиотеки: StyledComponents, jQuery, Lodash, Axios, i18next;
-Препроцессоры: sass, less;
-Сборщики: Webpack, Parcel;
-Платформы: Browser, Mobile Browsers, Android, Ios, Webos TV, Tizen TV, Android TV;
-Unit тесты: Jest;
-CI & CD: Gitlab CI
+* Языки: Javascript, Typescript, CSS, HTML;
+* Фреймворки: React, ReactNative, Vue;
+* Библиотеки: StyledComponents, jQuery, Lodash, Axios, i18next;
+* Препроцессоры: sass, less;
+* Сборщики: Webpack, Parcel;
+* Платформы: Browser, Mobile Browsers, Android, Ios, Webos TV, Tizen TV, Android TV;
+* Unit тесты: Jest;
+* CI & CD: Gitlab CI
 
-уровень английского: чтение (с использованеим словаря).
+Уровень английского: чтение (с использованием словаря).
 
-планы:
+Планы:
 
-* поглубже изучить React, Typescript
-* поднять точность в оценке сложности задач
-* поднять уровень владения английским языком.
-* изучение новых инструментов разработки
+* Поглубже изучить React, Typescript
+* Поднять точность в оценке сложности задач
+* Поднять уровень владения английским языком.
+* Изучение новых инструментов разработки
 
 
