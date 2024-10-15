@@ -4,7 +4,7 @@ front-end разработчик
 
 Контакты:
 
-1. **Telegram:** https://t.me/ZoriTsy
+1. **Telegram:** https://t.me/zorimiller
 2. **Discord:** Zori Tsy#2728
 
 ### Биография
